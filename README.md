@@ -1,2 +1,3 @@
 # git-repo
-this is some simple program on Java
+Hello
+this is some simple program on Java. 
